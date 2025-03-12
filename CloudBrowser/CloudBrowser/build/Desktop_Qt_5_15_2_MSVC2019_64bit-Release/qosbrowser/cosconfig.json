@@ -1,0 +1,20 @@
+{
+"SecretId": "AKID61oQq6NYXO6dy5zf74tYGsHWZS8bqvpV",
+"SecretKey": "WowvnSuAD7pMirpZBdw6B3mJdkDZid2J",
+"Region":"ap-guangzhou",
+"SignExpiredTime":360,          
+"ConnectTimeoutInms":6000,    
+"ReceiveTimeoutInms":60000,   
+"UploadPartSize":10485760,         
+"UploadCopyPartSize":20971520, 
+"UploadThreadPoolSize":5,          
+"DownloadSliceSize":4194304,    
+"DownloadThreadPoolSize":5,       
+"AsynThreadPoolSize":2,            
+"LogoutType":0,                    
+"LogLevel":3,                      
+"IsDomainSameToHost":false,         
+"DestDomain":"",                   
+"IsUseIntranet":false,             
+"IntranetAddr":""                   
+}

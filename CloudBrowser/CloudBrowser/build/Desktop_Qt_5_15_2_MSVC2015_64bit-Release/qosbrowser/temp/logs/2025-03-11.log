@@ -1,0 +1,8 @@
+2025-03-11T16:15:03[WARNING] qosbrowser\src\bend\dao\configs\versionjson.cpp VersionJson::setVersion : 24 -  ""
+2025-03-11T16:15:03[WARNING] qosbrowser\src\bend\dao\clouds\daocloudscos.cpp DaoCloudsCos::DaoCloudsCos : 12 -  "The program uses Tencent cloud object storage."
+2025-03-11T16:16:01[WARNING] qosbrowser\src\bend\dao\configs\versionjson.cpp VersionJson::setVersion : 24 -  ""
+2025-03-11T16:16:01[WARNING] qosbrowser\src\bend\dao\clouds\daocloudscos.cpp DaoCloudsCos::DaoCloudsCos : 12 -  "The program uses Tencent cloud object storage."
+2025-03-11T16:16:49[WARNING] qosbrowser\src\bend\dao\configs\versionjson.cpp VersionJson::setVersion : 24 -  ""
+2025-03-11T16:16:49[WARNING] qosbrowser\src\bend\dao\clouds\daocloudscos.cpp DaoCloudsCos::DaoCloudsCos : 12 -  "The program uses Tencent cloud object storage."
+2025-03-11T16:57:32[WARNING] qosbrowser\src\bend\dao\configs\versionjson.cpp VersionJson::setVersion : 24 -  ""
+2025-03-11T16:57:32[WARNING] qosbrowser\src\bend\dao\clouds\daocloudscos.cpp DaoCloudsCos::DaoCloudsCos : 12 -  "The program uses Tencent cloud object storage."
